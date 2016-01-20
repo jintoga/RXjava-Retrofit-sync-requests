@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RXjava Retrofit Sync</string>
+
+    <string name="open_weather_map_AppID">MyAppID</string>
+    <string name="barnaul_weather_id">1510853</string>
+    <string name="biysk_weather_id">1510018</string>
+    <string name="weather_units">metric</string>
+    <string name="weather_lang">ru</string>
+</resources>
